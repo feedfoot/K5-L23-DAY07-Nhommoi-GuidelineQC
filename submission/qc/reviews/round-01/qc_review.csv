@@ -1,0 +1,87 @@
+image,object_id,error_type,reviewer,rule_id,region,note
+img_001.jpg,,bo_sot,043,R-02,x113-200 y106-250: người áo hồng ngồi sau #2,Bàn trái có 2 người nhưng chỉ có box #2 (người áo đen); người áo hồng phía sau thấy rõ >20% → cần box person (occluded_level 2). Cả 043 và 055 cùng bỏ sót.
+img_002.jpg,,khong,043,,,
+img_003.jpg,53,sai_thuoc_tinh,043,R-03,,"Box chạm mép trái (x=0), vật bị mép ảnh cắt → truncated phải là yes (đang no)."
+img_004.jpg,54,sai_lop,043,§2.1,,"Tuk-tuk 3 bánh → other_vehicle, không phải motorcycle (§4 img_004; quyết định C043 chưa được áp)."
+img_004.jpg,57,sai_lop,043,§2.1,,Tuk-tuk 3 bánh thứ hai → other_vehicle (§4 img_004; C045 chưa được áp).
+img_004.jpg,58,thua,043,R-04,,Box nửa trên của chính tài xế #56 → trùng; mỗi người một box.
+img_005.jpg,62,sai_lop,043,§2.1,,"Xe van bạc biển 51LD-70.65 (ví dụ ở §2.1) → van; #62 và #70 là hai nửa của cùng một xe, gộp thành 1 box ~x70-960 y26-358."
+img_005.jpg,62,sai_thuoc_tinh,043,§2.2,,Van bị dãy người đi xe máy phía trước che >50% → occluded_level 2; bị mép phải cắt → truncated yes.
+img_005.jpg,70,thua,043,R-01,,Nửa phải của cùng xe van #62 → box trùng.
+img_005.jpg,60,thua,043,R-01,,Box x0-343 phủ cả xe con bên trái lẫn đuôi xe van; xe con đã có box sát #77.
+img_005.jpg,63,thua,043,R-05,,"Thực chất là tựa đầu ghế trong xe van nhìn qua kính hậu, không phải người ngoài xe."
+img_005.jpg,75,thua,043,R-05,,"Tựa đầu ghế trong xe van nhìn qua kính, không phải người."
+img_005.jpg,76,thua,043,R-02,,"Ô tô chỉ thấy qua kính xe van, phần nhìn thấy <20% → không vẽ."
+img_006.jpg,105,sai_thuoc_tinh,043,R-03,,Box không chạm mép ảnh (x2=941/960); xe bị người che chứ không bị mép cắt → truncated phải là no.
+img_007.jpg,,khong,043,,,
+img_008.jpg,,khong,043,,,
+img_009.jpg,139,thua,043,R-05,,Hành khách trong xe buýt #141 (nhìn qua cửa kính) → không gán person.
+img_009.jpg,140,thua,043,R-05,,Hành khách trong xe buýt #141 → không gán person.
+img_009.jpg,142,thua,043,R-05,,Hành khách trong xe buýt #141 → không gán person.
+img_009.jpg,143,thua,043,R-05,,Hành khách trong xe buýt #141 → không gán person.
+img_009.jpg,150,thua,043,R-01,,Trùng xe đạp #149 (IoU > 0.7).
+img_010.jpg,161,sai_thuoc_tinh,043,§2.2,,"Xe đạp chở rau bị nón, túi hàng che ≥10% → occluded_level 1 (ghi chú v1.1: nghi ngờ chọn mức cao)."
+img_011.jpg,165,sai_lop,043,§2.1,,Xe trắng ở nền xa là van (§4 img_011: van trắng → van).
+img_011.jpg,175,sai_vi_tri_kich_thuoc,043,R-01,,"Box chỉ ôm phần đỉnh xe máy nghệ thuật ở tiền cảnh; phải bao cả xe ~x282-612 y372-640, truncated yes (chạm mép dưới)."
+img_012.jpg,180,sai_lop,043,§2.1,,Mazda CX-5 là SUV → car (không phải truck).
+img_012.jpg,184,thua,043,R-01,,"Trùng xe bán tải #183, lại gán sai lớp car."
+img_013.jpg,,khong,043,,,
+img_014.jpg,,khong,043,,,
+img_015.jpg,197,thua,043,R-01,,Box một phần của xe tối #198 → trùng.
+img_015.jpg,199,thua,043,R-01,,Một box bao cả xe tối #198 lẫn xe trắng → thừa.
+img_015.jpg,195,sai_vi_tri_kich_thuoc,043,R-01,,Xe trắng bắt đầu khoảng x455 nhưng box bắt đầu từ x337 (ăn sang xe tối).
+img_016.jpg,202,sai_lop,043,§2.1,,Toyota Hiace thân hộp liền cabin → van.
+img_016.jpg,209,sai_lop,043,§2.1,,"Tuk-tuk xanh lá (biển TAXI), 3 bánh → other_vehicle."
+img_016.jpg,208,sai_vi_tri_kich_thuoc,043,R-01,,Box truck gộp cả tuk-tuk xanh dương lẫn xe bán tải; chỉ ôm phần bán tải nhìn thấy ~x0-325 y278-511.
+img_016.jpg,,bo_sot,043,§2.1,x0-258 y282-660: tuk-tuk xanh dương bên trái,"Tuk-tuk (có tài xế #206) chưa có box riêng → other_vehicle, truncated yes."
+img_016.jpg,210,thua,043,R-02,,Chỉ thấy đỉnh đầu ở góc trái dưới (<20% người) → không vẽ.
+img_016.jpg,211,thua,043,R-01,,Trùng người #207 trong tuk-tuk xanh lá.
+img_017.jpg,,khong,043,,,
+img_018.jpg,,khong,043,,,
+img_019.jpg,219,sai_lop,043,§2.1,,"Xe diễu hành chạy được → car (§2.1, §4 img_019; quyết định C129 chưa được áp)."
+img_019.jpg,218,thua,043,R-05,,Tài xế ngồi trong khoang xe → không gán person (§4 img_019).
+img_019.jpg,,bo_sot,043,R-10,x0-960 y0-205: đám đông khán giả sau rào,Cụm khán giả dày (≥10 người chồng lấn) chưa có ignore_region.
+img_019.jpg,,bo_sot,043,R-10,x87-166 y150-389: người sát rào bên trái,Người ở rìa cụm thấy rõ → person (bị xóa nhầm theo C130-C139: vùng ignore của 055 không phủ tới đây).
+img_019.jpg,,bo_sot,043,R-10,x138-231 y120-377: người thứ hai sát rào bên trái,Người ở rìa cụm thấy rõ → person.
+img_019.jpg,,bo_sot,043,R-10,x924-960 y155-291: người áo phản quang mép phải,"Người ở rìa cụm thấy rõ → person, truncated yes."
+img_019.jpg,,bo_sot,043,R-12,x816-960 y438-638: khán giả tiền cảnh góc phải dưới,"Đầu người tiền cảnh (nhòe nhưng nhận ra được) → person, truncated yes."
+img_019.jpg,220,sai_thuoc_tinh,043,R-03,,Khán giả tiền cảnh bị mép dưới cắt → truncated yes.
+img_020.jpg,,khong,043,,,
+img_021.jpg,,khong,043,,,
+img_022.jpg,,khong,043,,,
+img_023.jpg,269,sai_lop,043,§2.1,,Xích lô 3 bánh → other_vehicle (ví dụ img_023 ở §2.1).
+img_024.jpg,285,thua,043,R-01,,Nửa sau xe Pacer đen; cùng xe với #287 → trùng.
+img_024.jpg,287,sai_vi_tri_kich_thuoc,043,R-01,,Chỉ ôm nửa trước; xe Pacer đen trải ~x83-831 y217-703.
+img_025.jpg,,khong,043,,,
+img_026.jpg,309,thua,043,R-04,,Nửa trên của người lái #310 → trùng.
+img_026.jpg,314,thua,043,R-04,,"Một box bao cả 2 người (#310, #311) → thừa."
+img_026.jpg,313,thua,043,R-04,,Trùng xe máy #312.
+img_026.jpg,312,sai_vi_tri_kich_thuoc,043,R-01,,Cạnh phải thiếu đuôi xe (x2 679 → ~708).
+img_027.jpg,,khong,043,,,
+img_028.jpg,,khong,043,,,
+img_029.jpg,325,thua,043,R-01,,Trùng người #327 (cùng một người đi bộ).
+img_029.jpg,326,thua,043,R-02,,"Dải rộng 7 px ở mép trái, không nhận ra lớp → không vẽ."
+img_030.jpg,332,sai_thuoc_tinh,043,R-03,,"Chạm mép dưới, xe bị cắt → truncated yes."
+img_030.jpg,336,sai_thuoc_tinh,043,R-03,,"Chạm mép dưới, xe bị cắt → truncated yes."
+img_031.jpg,352,thua,043,R-01,,Trùng xe máy #365.
+img_031.jpg,369,thua,043,R-01,,Trùng người #355.
+img_031.jpg,,bo_sot,043,R-10,x362-485 y355-376: cụm người/xe nhỏ ở xa,Thiếu ignore_region theo quyết định C187/C188 (theo 055).
+img_032.jpg,,bo_sot,043,R-10,x0-695 y250-368: hàng người chờ ở trạm,Cụm người chồng lấn dày → ignore_region (§4 img_032); người thấy rõ giữ box riêng.
+img_033.jpg,,khong,043,,,
+img_034.jpg,434,thua,043,R-01,,Nửa trái của ô tô đen #427 → trùng.
+img_034.jpg,437,thua,043,R-01,,Nửa phải của ô tô đen #427 → trùng.
+img_034.jpg,439,thua,043,R-01,,Trùng người #412.
+img_034.jpg,441,thua,043,R-01,,Trùng người #412.
+img_034.jpg,442,thua,043,R-01,,Trùng người #436.
+img_034.jpg,438,thua,043,R-01,,Trùng xe máy #424.
+img_034.jpg,440,thua,043,R-01,,Trùng xe máy #424.
+img_035.jpg,452,sai_lop,043,§2.1,,Xe con trắng (Maruti) → car (§4 img_035: xe trắng → car).
+img_035.jpg,453,sai_lop,043,§2.1,,Xe con trắng bên phải → car.
+img_035.jpg,458,sai_lop,043,§2.1,,Auto rickshaw vàng bên phải → other_vehicle.
+img_035.jpg,445,sai_vi_tri_kich_thuoc,043,R-08,,Box bao cả đống hàng chở; chỉ ôm thân xe ~x382-550 y205-416.
+img_036.jpg,,khong,043,,,
+img_037.jpg,468,sai_thuoc_tinh,043,R-03,,Xe buýt bị mép trái cắt → truncated yes; bị người #470 che khoảng 10% → occluded_level 1 (v1.1).
+img_038.jpg,,khong,043,,,
+img_039.jpg,494,sai_thuoc_tinh,043,R-03,,"Chạm mép phải, xe bị cắt → truncated yes."
+img_039.jpg,495,thua,043,R-01,,Trùng người #484.
+img_040.jpg,505,thua,043,R-01,,"Box nằm trên mái tuk-tuk #501, không có ô tô ở đó."

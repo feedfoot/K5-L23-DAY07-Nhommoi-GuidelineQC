@@ -1,0 +1,311 @@
+case_id,image,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline,nguoi_chot,phieu_sua,kiem_lai,pham_vi
+C001,img_002.jpg,theo 055,R-07,v1.1,055,056 thêm car (xe trên sàn),OK,anh
+C002,img_002.jpg,theo 055,R-07,v1.1,055,056 thêm car (xe trên sàn),OK,anh
+C003,img_002.jpg,theo 055,R-07,v1.1,055,056 thêm car (xe trên sàn),OK,anh
+C004,img_002.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=0,OK,anh
+C005,img_002.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C006,img_002.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C007,img_003.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C008,img_003.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C009,img_003.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C010,img_003.jpg,theo 043,R-02,v1.1,043,056 thêm car,OK,anh
+C011,img_003.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C012,img_003.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C013,img_003.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C014,img_003.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C015,img_003.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C016,img_003.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C017,img_003.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C018,img_003.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C019,img_003.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C020,img_003.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C021,img_003.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C022,img_003.jpg,theo 056,R-02,v1.1,056,043 thêm motorcycle,OK,anh
+C023,img_003.jpg,theo 056,R-02,v1.1,056,043 thêm motorcycle,OK,anh
+C024,img_003.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C025,img_003.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C026,img_003.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C027,img_003.jpg,bicycle,§2.1,v1.1,nhóm,043 sửa motorcycle→bicycle (xe đạp có giỏ),OK,anh
+C028,img_003.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C029,img_003.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C030,img_003.jpg,theo 043,§2.2; R-03,v1.1,043,056 sửa occluded_level=1; 056 sửa truncated=yes,OK,anh
+C031,img_003.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C032,img_003.jpg,theo 043,§2.2; R-03,v1.1,043,056 sửa occluded_level=1; 056 sửa truncated=yes,OK,anh
+C033,img_003.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C034,img_003.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C035,img_003.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C036,img_003.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C037,img_003.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C038,img_003.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C039,img_003.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C040,img_003.jpg,theo 043,§2.2; R-03,v1.1,043,056 sửa occluded_level=1; 056 sửa truncated=yes,OK,anh
+C041,img_003.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C042,img_003.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C043,img_004.jpg,sửa lớp other_vehicle,§2.1,v1.1,nhóm,055 sửa motorcycle→other_vehicle; 056 thêm other_vehicle,OK,anh
+C044,img_004.jpg,theo 055,R-04,v1.1,055,056 thêm person,OK,anh
+C045,img_004.jpg,sửa lớp other_vehicle,§2.1,v1.1,nhóm,055 sửa motorcycle→other_vehicle; 056 thêm other_vehicle,OK,anh
+C046,img_004.jpg,theo 056,R-04,v1.1,nhóm,055 thêm person,OK,anh
+C047,img_004.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C048,img_005.jpg,theo 043,R-02,v1.1,043,055 thêm car,OK,anh
+C049,img_005.jpg,theo 055,R-02,v1.1,055,043 thêm car,OK,anh
+C050,img_005.jpg,theo 055,R-02,v1.1,055,043 thêm car,OK,anh
+C051,img_006.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C052,img_006.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C053,img_006.jpg,theo 043,R-02,v1.1,043,056 thêm car,OK,anh
+C054,img_006.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C055,img_006.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C056,img_006.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C057,img_006.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C058,img_006.jpg,theo 056,R-02,v1.1,056,043 thêm bicycle,OK,anh
+C059,img_006.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C060,img_006.jpg,theo 056,R-02,v1.1,056,043 thêm bicycle,OK,anh
+C061,img_006.jpg,theo 056,R-02,v1.1,056,043 thêm bicycle,OK,anh
+C062,img_006.jpg,theo 056,R-02,v1.1,056,043 thêm bicycle,OK,anh
+C063,img_006.jpg,theo 056,R-02,v1.1,056,043 thêm bicycle,OK,anh
+C064,img_006.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C065,img_006.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C066,img_006.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C067,img_006.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C068,img_006.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C069,img_006.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=0,OK,anh
+C070,img_006.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C071,img_006.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C072,img_006.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=0,OK,anh
+C073,img_006.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C074,img_006.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C075,img_006.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C076,img_006.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C077,img_006.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C078,img_006.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C079,img_006.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C080,img_007.jpg,theo 055,R-03,v1.1,055,056 sửa truncated=yes,OK,anh
+C081,img_008.jpg,theo 043,R-02,v1.1,043,055 thêm person,OK,anh
+C082,img_009.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C083,img_009.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C084,img_009.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C085,img_009.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C086,img_009.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C087,img_009.jpg,theo 056,R-02,v1.1,056,043 thêm bicycle,OK,anh
+C088,img_009.jpg,theo 056,R-02,v1.1,056,043 thêm bicycle,OK,anh
+C089,img_009.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C090,img_009.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C091,img_009.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=0,OK,anh
+C092,img_010.jpg,nhóm chốt,§2.2,v1.1,nhóm,kiểm occluded 043=0 vs 055=1,OK,anh
+C093,img_011.jpg,theo 043,R-02,v1.1,043,056 thêm car,OK,anh
+C094,img_011.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C095,img_011.jpg,theo 056,R-02,v1.1,056,043 thêm motorcycle,OK,anh
+C096,img_011.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C097,img_011.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C098,img_011.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C099,img_011.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C100,img_011.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C101,img_011.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C102,img_012.jpg,theo 056,R-02,v1.1,056,055 thêm car,OK,anh
+C103,img_012.jpg,theo 055,R-01,v1.1,055,056 chỉnh box sát vật hơn,OK,anh
+C104,img_012.jpg,theo 055 (truck),§2.1,v1.1,055,056 sửa car→truck (pickup),OK,anh
+C105,img_012.jpg,theo 055,R-03,v1.1,055,056 sửa truncated=yes,OK,anh
+C106,img_012.jpg,theo 055,R-03,v1.1,055,056 sửa truncated=yes,OK,anh
+C107,img_014.jpg,theo 055,R-02,v1.1,055,056 thêm person,OK,anh
+C108,img_015.jpg,theo 056,R-02,v1.1,056,043 thêm car,OK,anh
+C109,img_015.jpg,theo 056,R-02,v1.1,056,043 thêm car,OK,anh
+C110,img_015.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C111,img_015.jpg,theo 043,R-03,v1.1,043,056 sửa truncated=yes,OK,anh
+C112,img_015.jpg,theo 043,R-03,v1.1,043,056 sửa truncated=yes,OK,anh
+C113,img_015.jpg,theo 043,R-03,v1.1,043,056 sửa truncated=yes,OK,anh
+C114,img_016.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C115,img_016.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C116,img_016.jpg,theo 043,R-02,v1.1,043,056 thêm car,OK,anh
+C117,img_016.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C118,img_016.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C119,img_016.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C120,img_016.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C121,img_016.jpg,theo 043 (car),§2.1,v1.1,043,056 sửa van→car,OK,anh
+C122,img_016.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C123,img_016.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=0,OK,anh
+C124,img_016.jpg,theo 043,R-03,v1.1,043,056 sửa truncated=yes,OK,anh
+C125,img_016.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C126,img_016.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C127,img_019.jpg,theo 055 (ignore_region),R-10,v1.1,055,056 thay person bằng ignore_region,OK,anh
+C128,img_019.jpg,theo 055 (ignore_region),R-10,v1.1,055,056 thay person bằng ignore_region,OK,anh
+C129,img_019.jpg,sửa lớp car,§2.1; R-09,v1.1,nhóm,055 sửa truck→car (xe diễu hành),OK,anh
+C130,img_019.jpg,bỏ (nằm trong ignore_region),R-10,v1.1,055,056 xóa person (vùng đám đông),OK,anh
+C131,img_019.jpg,bỏ (nằm trong ignore_region),R-10,v1.1,055,056 xóa person (vùng đám đông),OK,anh
+C132,img_019.jpg,bỏ (nằm trong ignore_region),R-10,v1.1,055,056 xóa person (vùng đám đông),OK,anh
+C133,img_019.jpg,bỏ (nằm trong ignore_region),R-10,v1.1,055,056 xóa person (vùng đám đông),OK,anh
+C134,img_019.jpg,bỏ (nằm trong ignore_region),R-10,v1.1,055,056 xóa person (vùng đám đông),OK,anh
+C135,img_019.jpg,bỏ (nằm trong ignore_region),R-10,v1.1,055,056 xóa person (vùng đám đông),OK,anh
+C136,img_019.jpg,bỏ (nằm trong ignore_region),R-10,v1.1,055,056 xóa person (vùng đám đông),OK,anh
+C137,img_019.jpg,bỏ (nằm trong ignore_region),R-10,v1.1,055,056 xóa person (vùng đám đông),OK,anh
+C138,img_019.jpg,bỏ (nằm trong ignore_region),R-10,v1.1,055,056 xóa person (vùng đám đông),OK,anh
+C139,img_019.jpg,bỏ (nằm trong ignore_region),R-10,v1.1,055,056 xóa person (vùng đám đông),OK,anh
+C140,img_019.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C141,img_022.jpg,theo 055,R-02,v1.1,055,056 thêm person,OK,anh
+C142,img_022.jpg,theo 055,R-01,v1.1,055,056 chỉnh box sát vật hơn,OK,anh
+C143,img_023.jpg,theo 043,R-02,v1.1,043,055 thêm bicycle,OK,anh
+C144,img_024.jpg,theo 043,R-09,v1.1,043,056 thêm car (xe trưng bày),OK,anh
+C145,img_024.jpg,theo 056,R-02,v1.1,056,043 thêm car,OK,anh
+C146,img_024.jpg,theo 056,R-02,v1.1,056,043 thêm car,OK,anh
+C147,img_024.jpg,theo 056,R-02,v1.1,056,043 thêm car,OK,anh
+C148,img_024.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=0,OK,anh
+C149,img_024.jpg,theo 043,§2.2; R-03,v1.1,043,056 sửa occluded_level=0; 056 sửa truncated=yes,OK,anh
+C150,img_024.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=0,OK,anh
+C151,img_026.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C152,img_026.jpg,theo 056,R-02,v1.1,056,043 thêm motorcycle,OK,anh
+C153,img_026.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C154,img_026.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C155,img_026.jpg,theo 043,§2.2; R-03,v1.1,043,056 sửa occluded_level=1; 056 sửa truncated=yes,OK,anh
+C156,img_026.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C157,img_029.jpg,theo 056,R-02,v1.1,056,055 thêm person,OK,anh
+C158,img_029.jpg,theo 056,R-02,v1.1,056,055 thêm person,OK,anh
+C159,img_029.jpg,theo 056,R-02,v1.1,056,055 thêm bicycle,OK,anh
+C160,img_029.jpg,theo 056,R-02,v1.1,056,055 thêm bicycle,OK,anh
+C161,img_029.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C162,img_029.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C163,img_029.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C164,img_029.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C165,img_029.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C166,img_029.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C167,img_029.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C168,img_030.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C169,img_030.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C170,img_030.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C171,img_030.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C172,img_030.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C173,img_030.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C174,img_030.jpg,theo 043,R-02,v1.1,043,056 thêm motorcycle,OK,anh
+C175,img_030.jpg,theo 056,R-02,v1.1,056,043 thêm motorcycle,OK,anh
+C176,img_030.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C177,img_030.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C178,img_030.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C179,img_030.jpg,theo 043,§2.2; R-03,v1.1,043,056 sửa occluded_level=0; 056 sửa truncated=no,OK,anh
+C180,img_030.jpg,theo 043,§2.2; R-03,v1.1,043,056 sửa occluded_level=1; 056 sửa truncated=no,OK,anh
+C181,img_030.jpg,theo 043,R-03,v1.1,043,056 sửa truncated=no,OK,anh
+C182,img_030.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C183,img_030.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=0,OK,anh
+C184,img_030.jpg,theo 043,R-03,v1.1,043,056 sửa truncated=no,OK,anh
+C185,img_030.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=0,OK,anh
+C186,img_030.jpg,theo 043,R-03,v1.1,043,056 sửa truncated=no,OK,anh
+C187,img_031.jpg,theo 055 (ignore_region),R-10,v1.1,055,056 chỉnh ignore_region theo 055,OK,anh
+C188,img_031.jpg,theo 055 (ignore_region),R-10,v1.1,055,056 chỉnh ignore_region theo 055,OK,anh
+C189,img_031.jpg,theo 055,R-02,v1.1,055,056 thêm truck,OK,anh
+C190,img_031.jpg,theo 055,R-02,v1.1,055,056 thêm person,OK,anh
+C191,img_031.jpg,theo 055,R-02,v1.1,055,056 thêm person,OK,anh
+C192,img_031.jpg,theo 056,R-02,v1.1,056,055 thêm motorcycle,OK,anh
+C193,img_031.jpg,theo 056,R-02,v1.1,056,055 thêm person,OK,anh
+C194,img_031.jpg,theo 056,R-02,v1.1,056,055 thêm person,OK,anh
+C195,img_031.jpg,theo 056,R-02,v1.1,056,055 thêm person,OK,anh
+C196,img_031.jpg,theo 055,R-01,v1.1,055,056 chỉnh box sát vật hơn,OK,anh
+C197,img_031.jpg,theo 055,R-01,v1.1,055,056 chỉnh box sát vật hơn,OK,anh
+C198,img_031.jpg,theo 055,R-01,v1.1,055,056 chỉnh box sát vật hơn,OK,anh
+C199,img_031.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C200,img_031.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C201,img_031.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C202,img_031.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C203,img_032.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C204,img_032.jpg,theo 056,R-02,v1.1,056,043 thêm car,OK,anh
+C205,img_032.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C206,img_032.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C207,img_032.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C208,img_032.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C209,img_032.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C210,img_032.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C211,img_032.jpg,theo 043,R-03,v1.1,043,056 sửa truncated=yes,OK,anh
+C212,img_032.jpg,theo 043,R-03,v1.1,043,056 sửa truncated=yes,OK,anh
+C213,img_032.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C214,img_032.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C215,img_032.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C216,img_032.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C217,img_032.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C218,img_032.jpg,theo 043,R-03,v1.1,043,056 sửa truncated=yes,OK,anh
+C219,img_034.jpg,theo 055,R-02,v1.1,055,056 thêm car,OK,anh
+C220,img_034.jpg,theo 055,R-02,v1.1,055,056 thêm car,OK,anh
+C221,img_034.jpg,theo 055,R-02,v1.1,055,056 thêm person,OK,anh
+C222,img_034.jpg,theo 056,R-02,v1.1,056,055 thêm car,OK,anh
+C223,img_034.jpg,theo 056,R-02,v1.1,056,055 thêm motorcycle,OK,anh
+C224,img_034.jpg,theo 056,R-02,v1.1,056,055 thêm person,OK,anh
+C225,img_034.jpg,theo 056,R-02,v1.1,056,055 thêm motorcycle,OK,anh
+C226,img_034.jpg,theo 056,R-02,v1.1,056,055 thêm person,OK,anh
+C227,img_034.jpg,theo 056,R-02,v1.1,056,055 thêm person,OK,anh
+C228,img_034.jpg,theo 055,R-01,v1.1,055,056 chỉnh box sát vật hơn,OK,anh
+C229,img_034.jpg,theo 055,R-03,v1.1,055,056 sửa truncated=yes,OK,anh
+C230,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C231,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C232,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C233,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C234,img_034.jpg,theo 055,§2.2; R-03,v1.1,055,056 sửa occluded_level=1; 056 sửa truncated=yes,OK,anh
+C235,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C236,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C237,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C238,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C239,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C240,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C241,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C242,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C243,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C244,img_034.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C245,img_035.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C246,img_035.jpg,theo 043,R-02,v1.1,043,056 thêm other_vehicle,OK,anh
+C247,img_035.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C248,img_035.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C249,img_035.jpg,theo 043 (motorcycle),§2.1,v1.1,043,056 sửa car→motorcycle,OK,anh
+C250,img_035.jpg,theo 043 (motorcycle),§2.1,v1.1,043,056 sửa car→motorcycle,OK,anh
+C251,img_035.jpg,theo 043 (motorcycle),§2.1,v1.1,043,056 sửa truck→motorcycle,OK,anh
+C252,img_035.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C253,img_035.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C254,img_035.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C255,img_035.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C256,img_035.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C257,img_035.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C258,img_035.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C259,img_035.jpg,theo 043,§2.2; R-03,v1.1,043,056 sửa occluded_level=1; 056 sửa truncated=yes,OK,anh
+C260,img_035.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C261,img_037.jpg,theo 043 (bus),§2.1,v1.1,nhóm,055 sửa truck→bus,OK,anh
+C262,img_037.jpg,nhóm chốt,§2.2,v1.1,nhóm,kiểm occluded 043=0 vs 055=1,OK,anh
+C263,img_038.jpg,bỏ box,R-06,v1.1,nhóm,056 xóa car (mô hình đồ chơi),OK,anh
+C264,img_039.jpg,theo 043,R-02,v1.1,043,056 thêm person,OK,anh
+C265,img_039.jpg,theo 056,R-02,v1.1,056,043 thêm motorcycle,OK,anh
+C266,img_039.jpg,theo 056,R-02,v1.1,056,043 thêm person,OK,anh
+C267,img_039.jpg,theo 056,R-02,v1.1,056,043 thêm car,OK,anh
+C268,img_039.jpg,theo 056,R-02,v1.1,056,043 thêm motorcycle,OK,anh
+C269,img_039.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C270,img_039.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C271,img_039.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C272,img_039.jpg,theo 043,R-01,v1.1,043,056 chỉnh box sát vật hơn,OK,anh
+C273,img_039.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C274,img_039.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C275,img_039.jpg,theo 043,R-03,v1.1,043,056 sửa truncated=yes,OK,anh
+C276,img_039.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C277,img_039.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C278,img_039.jpg,theo 043,§2.2,v1.1,043,056 sửa occluded_level=1,OK,anh
+C279,img_040.jpg,theo 055,§2.1,v1.1,055,056 thêm other_vehicle,OK,anh
+C280,img_040.jpg,theo 055,§2.1,v1.1,055,056 thêm other_vehicle,OK,anh
+C281,img_040.jpg,theo 055,§2.1,v1.1,055,056 thêm truck,OK,anh
+C282,img_040.jpg,theo 056,R-02,v1.1,056,055 thêm car,OK,anh
+C283,img_040.jpg,theo 056,R-02,v1.1,056,055 thêm bus,OK,anh
+C284,img_040.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C285,img_040.jpg,theo 055,§2.2,v1.1,055,056 sửa occluded_level=1,OK,anh
+C286,img_040.jpg,theo 055,§2.2; R-03,v1.1,055,056 sửa occluded_level=1; 056 sửa truncated=yes,OK,anh
+Q01,img_001.jpg,Thêm person bị bỏ sót (người áo hồng ngồi sau #2),R-02,v1.1,043,"Vòng 1: thêm person x113-200 y106-250, occluded_level 2",kiểm lại ở QC vòng 2 (round-02),anh
+Q02,img_003.jpg,#53 truncated = yes,R-03,v1.1,043,Vòng 1: #53 truncated no→yes,kiểm lại ở QC vòng 2 (round-02),anh
+Q03,img_004.jpg,2 tuk-tuk → other_vehicle (áp C043/C045); bỏ box trùng tài xế (thay C046),§2.1; R-04,v1.1,043,"Vòng 1: #54, #57 motorcycle→other_vehicle; xóa #58",kiểm lại ở QC vòng 2 (round-02),anh
+Q04,img_005.jpg,Gộp #62+#70 thành 1 van; bỏ box thừa/không thật,§2.1; §2.2; R-01; R-02; R-05,v1.1,043,"Vòng 1: #62 → van x70-960 y26-358, occluded 2, truncated yes; xóa #70, #60, #63, #75, #76",kiểm lại ở QC vòng 2 (round-02),anh
+Q05,img_006.jpg,"#105 truncated = no (bị che, không bị mép cắt)",R-03,v1.1,043,Vòng 1: #105 truncated yes→no,kiểm lại ở QC vòng 2 (round-02),anh
+Q06,img_009.jpg,Bỏ hành khách trong xe buýt và box trùng,R-05; R-01,v1.1,043,"Vòng 1: xóa #139, #140, #142, #143, #150",kiểm lại ở QC vòng 2 (round-02),anh
+Q07,img_010.jpg,#161 occluded_level = 1,§2.2,v1.1,043,Vòng 1: #161 occluded 0→1,kiểm lại ở QC vòng 2 (round-02),anh
+Q08,img_011.jpg,Xe trắng nền → van; box xe máy nghệ thuật bao trọn xe,§2.1; R-01,v1.1,043,"Vòng 1: #165 car→van; #175 box → x282-612 y372-640, truncated yes",kiểm lại ở QC vòng 2 (round-02),anh
+Q09,img_012.jpg,SUV → car; bỏ box trùng xe bán tải,§2.1; R-01,v1.1,043,Vòng 1: #180 truck→car; xóa #184,kiểm lại ở QC vòng 2 (round-02),anh
+Q10,img_015.jpg,Bỏ box trùng/bao 2 xe; sửa box xe trắng,R-01,v1.1,043,"Vòng 1: xóa #197, #199; #195 box → x456-601",kiểm lại ở QC vòng 2 (round-02),anh
+Q11,img_016.jpg,Hiace → van; tuk-tuk → other_vehicle; tách box bán tải và tuk-tuk,§2.1; R-01; R-02,v1.1,043,"Vòng 1: #202 car→van; #209 car→other_vehicle; #208 box → x0-325 y278-511 (box 056), occluded 2; thêm other_vehicle x0-258 y282-660 truncated yes; xóa #210, #211",kiểm lại ở QC vòng 2 (round-02),anh
+Q12,img_019.jpg,Xe diễu hành → car (áp C129); ignore_region đám đông; khôi phục người rìa (thay C130-C139),§2.1; R-05; R-10; R-03,v1.1,043,"Vòng 1: #219 truck→car; xóa #218; thêm ignore_region x0-960 y0-205; thêm 4 person theo box 056 (x87-166, x138-231, x924-960, x816-960); #220 truncated yes, kéo box tới mép dưới",kiểm lại ở QC vòng 2 (round-02),anh
+Q13,img_023.jpg,Xích lô → other_vehicle,§2.1,v1.1,043,Vòng 1: #269 bicycle→other_vehicle,kiểm lại ở QC vòng 2 (round-02),anh
+Q14,img_024.jpg,Gộp 2 box trên xe Pacer đen,R-01,v1.1,043,Vòng 1: xóa #285; #287 box → x83-831 y217-703,kiểm lại ở QC vòng 2 (round-02),anh
+Q15,img_026.jpg,Bỏ box trùng người/xe; sửa box xe máy,R-04; R-01,v1.1,043,"Vòng 1: xóa #309, #313, #314; #312 box → x227-708",kiểm lại ở QC vòng 2 (round-02),anh
+Q16,img_029.jpg,Bỏ box trùng và dải 7 px,R-01; R-02,v1.1,043,"Vòng 1: xóa #325, #326",kiểm lại ở QC vòng 2 (round-02),anh
+Q17,img_030.jpg,truncated = yes cho 2 xe chạm mép dưới,R-03,v1.1,043,"Vòng 1: #332, #336 truncated no→yes",kiểm lại ở QC vòng 2 (round-02),anh
+Q18,img_031.jpg,Thêm ignore_region theo 055 (áp C187/C188); bỏ box trùng,R-10; R-01,v1.1,043,"Vòng 1: thêm ignore_region x362-485 y355-376; xóa #352, #369",kiểm lại ở QC vòng 2 (round-02),anh
+Q19,img_032.jpg,Thêm ignore_region cho hàng người chờ,R-10,v1.1,043,Vòng 1: thêm ignore_region x0-695 y250-368; giữ box person thấy rõ,kiểm lại ở QC vòng 2 (round-02),anh
+Q20,img_034.jpg,Bỏ 7 box trùng,R-01,v1.1,043,"Vòng 1: xóa #434, #437, #438, #439, #440, #441, #442",kiểm lại ở QC vòng 2 (round-02),anh
+Q21,img_035.jpg,Sửa lớp xe con/rickshaw; box rickshaw không bao hàng,§2.1; R-08,v1.1,043,"Vòng 1: #452, #453 motorcycle→car; #458 motorcycle→other_vehicle; #445 box → x382-550 y205-416",kiểm lại ở QC vòng 2 (round-02),anh
+Q22,img_037.jpg,"Xe buýt truncated = yes, occluded_level = 1",R-03; §2.2,v1.1,043,"Vòng 1: #468 truncated yes, occluded 1",kiểm lại ở QC vòng 2 (round-02),anh
+Q23,img_039.jpg,truncated = yes; bỏ box trùng,R-03; R-01,v1.1,043,Vòng 1: #494 truncated yes; xóa #495,kiểm lại ở QC vòng 2 (round-02),anh
+Q24,img_040.jpg,Bỏ box ô tô trên mái tuk-tuk,R-01,v1.1,043,Vòng 1: xóa #505,kiểm lại ở QC vòng 2 (round-02),anh

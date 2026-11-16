@@ -1,0 +1,4 @@
+{
+  "kind": "editorial",
+  "summary": "Làm rõ ngưỡng occluded_level 0/1 (§2.2), nhấn mạnh kiểm truncated khi box chạm mép ảnh (R-03), bổ sung ca khó calibration vào §4, cập nhật bảng phiên bản. Không thay đổi định nghĩa lớp, thuộc tính hay quy tắc."
+}
