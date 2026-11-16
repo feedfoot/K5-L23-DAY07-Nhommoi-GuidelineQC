@@ -78,7 +78,6 @@ Quy ước đo:
 ---
 
 ## 4. Ca khó
-
 | Ảnh | Tình huống | Rule | Quyết định v1.0 |
 |---|---|---|---|
 | img_005 | Nhiều người đi xe máy chồng lấp; người phía sau chỉ thấy mũ | R-04, R-02, R-01 | Mỗi người đạt R-02 = 1 `person`; người chỉ thấy mũ (< 20%) → không gán; xe máy chỉ thấy tay lái → kiểm R-02 |
