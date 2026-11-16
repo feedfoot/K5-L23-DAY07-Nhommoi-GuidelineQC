@@ -1,7 +1,7 @@
 # Thông tin nhóm
 
-- Tên nhóm:
-- Mã thành viên (ba chữ số):
+- Tên nhóm: Nhommoi
+- Mã thành viên (ba chữ số): 055, 043, 056
 - Người điều phối:
 - Người review bản cuối:
 - Commit chốt bài (điền ở kênh nộp sau khi commit):
