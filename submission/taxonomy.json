@@ -1,13 +1,16 @@
 {
-  "version": "v0",
+  "version": "v1.0",
   "ignore_class": "ignore_region",
   "classes": [
-    {"name": "car", "definition": "Ô tô con, SUV."},
-    {"name": "truck", "definition": "Xe tải, xe có thùng hàng riêng."},
-    {"name": "van", "definition": "Xe thùng kín cỡ nhỏ."},
-    {"name": "motorcycle", "definition": "Xe máy, mô tô."},
-    {"name": "person", "definition": "Người đi bộ hoặc người ngồi trên xe."},
-    {"name": "ignore_region", "definition": "Vùng bỏ qua (không phải vật): nơi không gán từng vật, bỏ sót ở đây không tính là lỗi."}
+    {"name": "car", "definition": "Xe 4 bánh cỡ nhỏ chở người: sedan, hatchback, SUV, wagon, coupe, taxi, mui trần, xe diễu hành chạy được. Không gồm pickup (truck) và xe thân hộp (van)."},
+    {"name": "van", "definition": "Xe 4 bánh thân hộp cao, khoang kín liền cabin, chở khách <= 15 chỗ hoặc chở hàng (minivan, xe van). Phân biệt theo hình dáng, không theo công dụng."},
+    {"name": "bus", "definition": "Xe chở khách > 15 chỗ: thân dài, hàng cửa sổ dọc thân (xe buýt, minibus lớn)."},
+    {"name": "truck", "definition": "Xe có cabin tách khỏi thùng/sàn hàng: xe tải, đầu kéo, xe ben, xe chở ô tô, mọi xe pickup (kể cả có nắp thùng). Đầu kéo + rơ-moóc nối liền = 1 box."},
+    {"name": "motorcycle", "definition": "Xe 2 bánh có động cơ: xe máy, mô tô, scooter, xe đạp điện; xe máy có sidecar = 1 box bao cả sidecar."},
+    {"name": "bicycle", "definition": "Xe 2 bánh không động cơ (xe đạp), có hoặc không có người."},
+    {"name": "other_vehicle", "definition": "Phương tiện thật không thuộc lớp khác, chủ yếu xe 3 bánh: tuk-tuk, auto rickshaw, xích lô, xe ba gác, xe kéo/xe thồ có bánh."},
+    {"name": "person", "definition": "Người thật ở ngoài khoang xe kín: đi bộ, đứng, ngồi, người lái/ngồi trên xe máy, xe đạp, xích lô, tuk-tuk. Không gán người trong ô tô/van/bus/cabin, tượng, ma-nơ-canh, mascot, hình in, phản chiếu."},
+    {"name": "ignore_region", "definition": "Vùng bỏ qua (không phải vật): cụm >= 10 người/xe chồng lấn dày đặc, đa số bị che > 50% hoặc cao < 20 px; không gán từng vật bên trong, bỏ sót ở đây không tính là lỗi."}
   ],
   "attributes": [
     {"name": "occluded_level", "type": "select", "values": ["0", "1", "2", "3"], "default": "0"},
